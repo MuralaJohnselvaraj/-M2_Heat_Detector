@@ -7,3 +7,5 @@
 ![codiga grade](https://api.codiga.io/project/33019/status/svg)
 
 [![Code Quality - Cppcheck](https://github.com/MuralaJohnselvaraj/M2_Heat_Detector/actions/workflows/cpp.yml/badge.svg)](https://github.com/MuralaJohnselvaraj/M2_Heat_Detector/actions/workflows/cpp.yml)
+
+[![Build_CI - Linux](https://github.com/MuralaJohnselvaraj/M2_Heat_Detector/actions/workflows/Linux.yml/badge.svg)](https://github.com/MuralaJohnselvaraj/M2_Heat_Detector/actions/workflows/Linux.yml)
